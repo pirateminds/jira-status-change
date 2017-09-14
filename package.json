@@ -1,0 +1,21 @@
+{
+  "name": "jira-status-change",
+  "version": "1.0.0",
+  "description": "Make the Jira greate again. Move the issues by the flow after some hook received",
+  "main": "index.js",
+  "bin": {
+    "jira-status-change": "index.js"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Egor Malkevich",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "command-line-args": "^4.0.7",
+    "jira-client": "^6.4.0",
+    "progress": "^2.0.0",
+    "request": "^2.81.0"
+  }
+}
