@@ -4,7 +4,7 @@
 
 <br />
 
-# Require
+## Require
 Node v8.4+
 
 ## Installation
@@ -17,5 +17,5 @@ Node v8.4+
 
 needs to fill almost all options.
 
-# Notes
+### Notes
 Some times it falls with [CAPTCHAs](https://developer.atlassian.com/jiradev/jira-apis/jira-rest-apis/jira-rest-api-tutorials/jira-rest-api-version-2-tutorial#JIRARESTAPIVersion2Tutorial-CAPTCHAs) error. You needs to relogin manually to the site.
