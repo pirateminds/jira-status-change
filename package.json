@@ -1,6 +1,6 @@
 {
   "name": "jira-status-change",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make the Jira greate again. Move the issues by the flow after some hook received",
   "main": "index.js",
   "bin": {
@@ -10,6 +10,18 @@
     "start": "node ./index.js"
   },
   "author": "Egor Malkevich",
+  "url" : "https://github.com/pirateminds/jira-status-change",
+  "repository" :{ 
+    "type" : "git", 
+    "url" : "https://github.com/pirateminds/jira-status-change.git"
+  },
+  "keywords": [
+    "jira",
+    "jira status",
+    "change status",
+    "command line",
+    "task"
+  ],
   "license": "MIT",
   "dependencies": {
     "colors": "^1.1.2",
